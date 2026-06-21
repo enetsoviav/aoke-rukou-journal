@@ -1,2 +1,12 @@
 # aoke-rukou-journal
-HTML page archive and documentation
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
